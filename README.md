@@ -17,7 +17,8 @@ You have ten turns to find and sink a one-character long battleship.
 
 **solver.py**
 
-This is a Scrabble cheater. To run, supply the letters from your rack on the command line, as shown in the following example:
+This is a Scrabble cheater based on [O'Reilly Introduction to Python/Section 18'](https://openhatch.org/wiki/O'Reilly_Introduction_to_Python/Section_18).
+To run, supply the letters from your rack on the command line, as shown in the following example:
 ```
 python solver.py KRYSTAN
 ```
